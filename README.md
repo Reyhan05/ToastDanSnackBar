@@ -1,7 +1,5 @@
 # A beautifull Motion Toast And Snackbar
 
-![](https://kuliahdimana.id/public/news/2e5bcf57417ea4486c69a91ceb1d37ed.jpg)
-
 # Reyhan M Akbar
 Hello This is my project
 
